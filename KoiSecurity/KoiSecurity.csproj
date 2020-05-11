@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Fish\" />
+    <Folder Include="Keys\" />
+    <Folder Include="Sessions\" />
+    <Folder Include="Math\" />
+    <Folder Include="Encoding\" />
+  </ItemGroup>
+</Project>
